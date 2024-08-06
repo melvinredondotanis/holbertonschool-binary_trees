@@ -61,3 +61,4 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 	}
 	return (0);
 }
+/*ne marche pas dans le cas d'un arbre simple !!!*/
